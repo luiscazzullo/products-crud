@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "name": "Computadora",
+      "brand": "Apple",
+      "price": "1000000",
+      "id": 1
+    }
+  ],
+  "users": []
+}
